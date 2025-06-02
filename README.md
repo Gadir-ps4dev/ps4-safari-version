@@ -4,7 +4,7 @@ This is a simple webpage that helps detect the `User-Agent` from the **PS4 WebKi
 
 ## 🌐 Purpose
 
-The goal is to collect accurate browser identification strings from **PS4 consoles**
+The goal is to collect accurate browser identification strings from **PS4 consoles**.
 This information is useful for:
 
 - Researching Safari / WebKit versions on PS4
