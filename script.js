@@ -7,6 +7,7 @@ function out() {
         let p = document.createElement("p");
         p.textContent = "UserAgent: " + agent;
         output.appendChild(p);
+        alert("Pass!");
     }, 1000);
 }
 
